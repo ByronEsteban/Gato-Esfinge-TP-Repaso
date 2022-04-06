@@ -1,0 +1,25 @@
+
+body{
+  font-size: 18px;
+  background-image: url(/home/alumno/repaso/FondoGris3.png);
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 23px;
+}
+
+.Gatoh2{
+  font-size: 27px;
+  color: purple;
+}
+
+.mejor {
+  color: green;
+  font-size: 21px;
+}
